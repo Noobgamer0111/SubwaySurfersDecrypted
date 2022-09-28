@@ -1,4 +1,8 @@
 In this file, we will attempt to figure out which encryption method is used.
 
-In the actual SS program, the content is decrypted once the application is running, and rendering on the phone/tablet screen.
+In the actual SS application, the content is decrypted once the application is running, and rendering on the phone/tablet screen.
 This likely means that the program has to have the decryption key on disk, and is also available even if the device is offline (i.e. no Internet connection).
+
+In Line 4, I meant to say that the decryption key is loaded from storage into memory, and readily decrypts the relevant *.json files when the user makes a call to that file e.g. user buys a bundle for 20 keys, and the wallet.json is update to reduce the keys value by 20. When the app is closed, the jsons seem to be encrypted again.
+
+It is imperative that the decryption is identified and can be reliably proven to decrypt the relevant jsons.
