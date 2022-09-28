@@ -1,0 +1,4 @@
+In this file, we will attempt to figure out which encryption method is used.
+
+In the actual SS program, the content is decrypted once the application is running, and rendering on the phone/tablet screen.
+This likely means that the program has to have the decryption key on disk, and is also available even if the device is offline (i.e. no Internet connection).
