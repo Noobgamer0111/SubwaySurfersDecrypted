@@ -7,6 +7,6 @@ In Line 4, I meant to say that the decryption key is loaded from storage into me
 
 It is imperative that the decryption is identified and can be reliably proven to decrypt the relevant jsons.
 
-List of possible locations (v3.1.0 on an unrooted Samsung Galaxy S9)
+List of possible locations (v3.1.0 on an unrooted Samsung Galaxy S9):
 Chili
 Auth
