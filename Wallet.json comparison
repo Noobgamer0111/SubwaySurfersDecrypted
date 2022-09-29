@@ -12,4 +12,3 @@ Encrypted: (from my own copy)
 # - The encrypted string always starts with "IegY21/091yYehMIQUAnc"
 # - Potentially means that the same encryption key is used all of the json's stored in profile.
 # - Find encryption key + know what data is supposed to look like (human readable) = operation.success
-#
