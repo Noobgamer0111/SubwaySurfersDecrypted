@@ -1,4 +1,4 @@
-# This is a sample of a plaintext and encrypted Wallet.json file. It is normally stored here: [Your Phone Name]\Phone\Android\data\com.kiloo.subwaysurf\files\profile\wallet.json. They are not the same.
+# This is a sample of a plaintext and encrypted Wallet.json file. It is normally stored here: [Your Phone Name]\Phone\Android\data\com.kiloo.subwaysurf\files\profile\wallet.json. The plaintext and the encrypted are NOT the same.
 
 # Plaintext: (from: https://github.com/HerrErde/SubwayBooster/blob/main/Android/data/com.kiloo.subwaysurf/files/profile/wallet.json)
 {
