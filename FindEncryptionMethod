@@ -19,3 +19,5 @@ Export to find key.
 Build and release decryption software.
 
 Analysis so far:
+Looking at supplied Unity documentation on encryption of game data strings, there are a few hard-to-crack-in-reasonable-time methods used.
+The most common is XOR (not used here, it is easy to crack), 
