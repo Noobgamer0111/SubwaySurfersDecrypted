@@ -10,3 +10,9 @@ It is imperative that the encryption method is identified and can be reliably pr
 List of possible locations (v3.1.1 on an unrooted Samsung Galaxy S9):
 Chili
 Auth
+
+Other plans:
+Create debuggable version of app
+Run in emulator
+Find memory dumper app
+Export to find key.
