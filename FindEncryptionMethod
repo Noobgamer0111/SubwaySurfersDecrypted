@@ -27,6 +27,7 @@ Encryption methods we can ignore:
 - Base64 (cipher text was not decoded into human-readable)
 - XOR (ciphertext would have been in binary)
 - RSA (a public key and private key makes no sense for this simple data)
+- AES (AES performance decreases exponentially as data size gets bigger)
 
 It is most likely symmetric encryption.
 Blowfish is the fastest decryption method out there.
