@@ -23,3 +23,8 @@ Looking at supplied Unity documentation on encryption of game data strings, ther
 
 The most common is Base64(closer to obfuscation, but is trivial to decode), XOR (not used here, it is easy to crack), AES-128/192/256 bit, or RSA.
 
+Encryption methods we can ignore:
+- Base64 (cipher text was not decoded into human-readable)
+- XOR (ciphertext would have been in binary)
+- RSA (a public key and private key makes no sense for this simple data)
+
