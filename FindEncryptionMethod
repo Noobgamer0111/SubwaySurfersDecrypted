@@ -32,3 +32,4 @@ Encryption methods we can ignore:
 It is most likely symmetric encryption.
 Blowfish is the fastest decryption method out there, yet AES is hardware-accelerated, and most modern mobile CPUs do support AES encryption.
 
+Most likely: AES encryption.
