@@ -33,3 +33,4 @@ It is most likely symmetric encryption.
 Blowfish is the fastest decryption method out there, yet AES is hardware-accelerated, and most modern mobile CPUs do support AES encryption.
 
 Most likely: AES encryption.
+Based on previous discussions, we've found that the key is, "C38FB23A402222A0C17D34A92F971D1F", however, the IV has not been found.
