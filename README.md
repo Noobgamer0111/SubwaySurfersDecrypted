@@ -9,3 +9,9 @@ This encryption of previously-accessible content was seemingly caused by the exp
 AIM: To successfully decrypt the json contents, and to be able to release tools to do so.
 
 It is not expected that this project will be successful in any form, and I am expecting a Cease & Desist notice if Kiloo/SYBO took action against me.
+
+Update: (29/01/2023) I have not forgotten this project. This project is tedious as my machines are both old, and weak. I'm planning to get an Android emulator running on my Ubuntu laptop, so it can done more easily.
+
+The current plan is to locate the initialisation vector (IV) and confirm if any keys found are actually correct.
+
+If only kids on TikTok could actually STFU about game modification, and piracy, this project would not have to exist.
