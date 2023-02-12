@@ -9,4 +9,4 @@ Potential issues with this method:
 
 Currently, the game can operate completely normally in an offline state, as it stores the encryption key on the user's internal disk drive.
 
-However, if the encryption key was made dynamic in any form, e.g. if the key was rotated every time the game is running AND connected to the Internet, this could break any decry
+However, if the encryption key was made dynamic in any form or even worse, online-only, this project will be made ineffective.
