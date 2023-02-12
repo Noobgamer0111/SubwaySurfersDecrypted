@@ -1,0 +1,12 @@
+This is just a list of things that I aim to do with this project.
+
+1) Edit the manifest file to set the apk into a debuggable state.
+2) Use Android Studio or equivalent Android debugging application to scan which files and their locations are being called.
+3) Extract encryption keys.
+4) Develop CLI application that can automate conversion of a user's JSON's data to plain/human-readable text. (I have no coding skills, so someone else can do this lol)
+
+Potential issues with this method:
+
+Currently, the game can operate completely normally in an offline state, as it stores the encryption key on the user's internal disk drive.
+
+However, if the encryption key was made dynamic in any form, e.g. if the key was rotated every time the game is running AND connected to the Internet, this could break any decry
