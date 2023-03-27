@@ -15,3 +15,5 @@ Update: (29/01/2023) I have not forgotten this project. This project is tedious 
 The current plan is to locate the initialisation vector (IV) and confirm if any keys found are actually correct.
 
 If only kids on TikTok could actually STFU about game modification, and piracy, this project would not have to exist.
+
+Discord Server: https://discord.gg/NAXbNwKK2V
