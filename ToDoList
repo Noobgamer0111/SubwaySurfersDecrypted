@@ -7,7 +7,7 @@ This is just a list of things that I aim to do with this project.
 
 Potential issues with this method:
 
-Currently, the game can operate completely normally in an offline state, as it stores the encryption key on the user's internal disk drive.
+1 - Currently, the game can operate completely normally in an offline state, as it stores the encryption key on the user's internal disk drive.
 
 However, if the encryption key was made dynamic in any form or even worse, online-only, this project will be made ineffective.
 
@@ -16,3 +16,5 @@ Example: If the game used a rolling-code system, where the client will use a key
 Let's say the current key is "N#8e&N&9rP$15C" with a SHA-1 hash of 7fce7dfaf4d31700b6cac431ca93a5c03fcb1b35, then the new key is N#8e&N&9rP$15C + D = N#8e&N&9rP$15D, hence the SHA-1 hash would be: 4c73a7808839eef2ee6e993d09014c242c603354.
 
 This would take a long time to figure out the original key, and to generate possible combinations.
+
+2 - Since the game runs in Unity, the game's code is difficult to examine.
