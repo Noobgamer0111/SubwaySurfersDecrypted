@@ -16,4 +16,8 @@ The current plan is to locate the initialisation vector (IV) and confirm if any 
 
 If only kids on TikTok could actually STFU about game modification, and piracy, this project would not have to exist.
 
+Update (26/05/2023):
+
+Nothing much has changed with this project. Currently, the most effective tactic available (the HerrErde method) is to generate a JSON in the original format, and add the intended values. After that, the new JSON is copied into the target folder to be replaced.
+
 Discord Server: https://discord.gg/NAXbNwKK2V
