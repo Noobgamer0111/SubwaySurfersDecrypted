@@ -20,4 +20,8 @@ Update (26/05/2023):
 
 Nothing much has changed with this project. Currently, the most effective tactic available (the HerrErde method) is to generate a JSON in the original format, and add the intended values. After that, the new JSON is copied into the target folder to be replaced.
 
+When this new JSON is inserted, it will be re-formatted to the V3 style and encrypted upon first load of the SS application.
+
+Additionally, we need more people searching for the key location. I'm suspecting it's hidden to the user, but may be visible using a rooted Android device/emulator. Some people have claimed that they've cracked it, but there is no major breakthrough so far.
+
 Discord Server: https://discord.gg/NAXbNwKK2V
